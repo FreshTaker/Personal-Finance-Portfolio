@@ -6,10 +6,12 @@ Collection of Scripts and results
 This script takes the list of stocks and quantities that is in a portfolio and outputs graphs of various timetables.
 
 1) Uses Yahoo Finance API to collect current price.
-2) Uses pickle to store and restore data for dynamic graphs (30-day, 90-day, 1-year).
-3) Uses Matlabplot(?) to create plots.
-4) Alerts user when dividend takes place (qty of stock may change and should be manually updated)
-5) Pulls from multiple Portfolios (csv's?)
+2) Analyze portfolio:
+  2.1) get Short Name, market price
+3) Uses pickle or sqlite to store and restore data for dynamic graphs (30-day, 90-day, 1-year).
+4) Uses Matlabplot(?) to create plots.
+5) Alerts user when dividend takes place (qty of stock may change and should be manually updated)
+6) Pulls from multiple Portfolios (csv's?)
 
 
 ## houseValueEst.py
