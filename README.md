@@ -22,3 +22,8 @@ This script pulls from a variety of APIs to get an estimated home value.
 3) Use Matlabplot(?) to create plots.
 
 
+## cashFlowProjector
+This script uses inputs like weekly income and estimated expenses to project your cash flow.  
+
+
+
