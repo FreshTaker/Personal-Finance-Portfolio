@@ -1,6 +1,15 @@
 # Personal-Finance-Portfolio
 Collection of Scripts and results
 
+## loanCalculator.py
+This script calculates:
+
+    * number of monthly payments
+    * annuity monthly payment amount
+    * credit principal
+    * differentiated payments (constant pay down of principal)
+This script was made following the "CreditCalc" tutorial on http://hyperskills.org.
+I have added my own additions to this script to run with & without arguments.
 
 ## stockTracker.py
 This script takes the list of stocks and quantities that is in a portfolio and outputs graphs of various timetables.
